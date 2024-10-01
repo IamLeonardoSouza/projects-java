@@ -1,55 +1,55 @@
-# Pesquisa Binária
+# Binary Search
 
-## Descrição
+## Description
 
-A pesquisa binária é um algoritmo eficiente para encontrar um elemento em uma lista ordenada. O algoritmo funciona dividindo repetidamente a lista ao meio e comparando o valor do meio com o elemento que está sendo procurado. Se o valor do meio é menor que o elemento buscado, a pesquisa continua na metade superior da lista; caso contrário, continua na metade inferior.
+Binary search is an efficient algorithm for finding an element in a sorted list. The algorithm works by repeatedly dividing the list in half and comparing the middle value with the element being searched for. If the middle value is less than the searched element, the search continues in the upper half of the list; otherwise, it continues in the lower half.
 
-### Funcionalidades
+### Features
 
-- **Busca rápida em listas ordenadas.** 
-- **Complexidade de tempo O(log n).**
+- **Fast search in sorted lists.**
+- **Time complexity of O(log n).**
 
-# Vetores
+# Arrays
 
-## Descrição
+## Description
 
-O projeto de vetores demonstra operações básicas com arrays (vetores) em Java, incluindo inserção, remoção e manipulação de elementos. Vetores são estruturas de dados que armazenam uma coleção de elementos do mesmo tipo em uma ordem específica.
+The array project demonstrates basic operations with arrays (vectors) in Java, including inserting, removing, and manipulating elements. Arrays are data structures that store a collection of elements of the same type in a specific order.
 
-### Funcionalidades
+### Features
 
-- **Adicionar e remover elementos de um vetor.** 
-- **Iterar e exibir os elementos do vetor.**
-- **Buscar elementos no vetor.**
+- **Add and remove elements from an array.**
+- **Iterate and display array elements.**
+- **Search for elements in the array.**
 
-# Calculadora
+# Calculator
 
-## Descrição
+## Description
 
-A Calculadora é uma aplicação simples que realiza operações aritméticas básicas, como adição, subtração, multiplicação e divisão. A interface é baseada em console e permite ao usuário inserir duas números e escolher a operação desejada.
+The Calculator is a simple application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The interface is console-based and allows the user to input two numbers and choose the desired operation.
 
-### Funcionalidades
+### Features
 
-- **Adição, subtração, multiplicação e divisão.** 
-- **Manipulação de entradas e validação de erros.**
+- **Addition, subtraction, multiplication, and division.**
+- **Input handling and error validation.**
 
-# Jogo da Forca
+# Hangman Game
 
-## Descrição
+## Description
 
-O Jogo da Forca é um jogo clássico onde o usuário deve adivinhar uma palavra letra por letra. Cada letra incorreta resulta em uma parte do boneco da forca sendo desenhada, e o objetivo é adivinhar a palavra antes que o boneco seja completo.
+The Hangman Game is a classic game where the user must guess a word letter by letter. Each incorrect letter results in part of the hangman being drawn, and the goal is to guess the word before the hangman is fully drawn.
 
-### Funcionalidades
+### Features
 
-- **Jogo interativo baseado em texto.** 
-- **Controle de tentativas e exibição do progresso do jogador.**
+- **Interactive text-based game.**
+- **Attempt tracking and display of the player's progress.**
 
-# Sistema de Gerenciamento de Livros
+# Book Management System
 
-## Descrição
+## Description
 
-O Sistema de Gerenciamento de Livros permite ao usuário adicionar, remover e listar livros em uma biblioteca. A aplicação utiliza uma interface simples para realizar operações básicas sobre uma coleção de livros.
+The Book Management System allows the user to add, remove, and list books in a library. The application uses a simple interface to perform basic operations on a collection of books.
 
-### Funcionalidades
+### Features
 
-- **Adicionar, remover e listar livros.** 
-- **Armazenamento de informações de livros, como título e autor.**
+- **Add, remove, and list books.**
+- **Store book information, such as title and author.**
